@@ -52,7 +52,10 @@ A significance level of 0.05 was used.
 
 #### Descriptive Statistics
 
+#### Descriptive Statistics
+
 | Metric | Value |
+|---|---:|
 | Original sample size | 20,000 |
 | Valid sample size | 19,905 |
 | Excluded games | 95 |
@@ -64,7 +67,10 @@ A significance level of 0.05 was used.
 
 #### Correlation and Linear Regression
 
+#### Correlation and Linear Regression
+
 | Metric | Result |
+|---|---:|
 | Pearson correlation | -0.7186 |
 | Spearman correlation | -0.7485 |
 | Regression slope | -0.00012190 |
@@ -81,6 +87,7 @@ Null Hypothesis: Average user ratings follow a uniform distribution.
 Alternative Hypothesis: Average user ratings do not follow a uniform distribution.
 
 | Metric | Result |
+|---|---:|
 | Significance level | 0.05 |
 | Expected frequency per interval | 2,211.67 |
 | Chi-square statistic | 32,008.5423 |
