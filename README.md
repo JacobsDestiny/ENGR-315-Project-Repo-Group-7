@@ -52,8 +52,6 @@ A significance level of 0.05 was used.
 
 #### Descriptive Statistics
 
-#### Descriptive Statistics
-
 | Metric | Value |
 |---|---:|
 | Original sample size | 20,000 |
@@ -64,8 +62,6 @@ A significance level of 0.05 was used.
 | Standard deviation | 0.9755 |
 | Minimum rating | 1.0000 |
 | Maximum rating | 9.4429 |
-
-#### Correlation and Linear Regression
 
 #### Correlation and Linear Regression
 
